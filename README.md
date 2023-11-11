@@ -24,5 +24,6 @@ Busco dar mis primeros pasos en el mundo de la Programación, adquiriendo nuevas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 
